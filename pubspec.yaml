@@ -1,7 +1,7 @@
 name: tbib_dialog
 description: A new Flutter package project.
 version: 0.0.1
-homepage:ttps://github.com/the-best-is-best/tbib_dialog
+homepage: https://github.com/the-best-is-best/
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
